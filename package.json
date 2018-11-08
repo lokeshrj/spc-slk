@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lokeshrj/spc-slk/issues"
   },
-  "homepage": "https://github.com/lokeshrj/spc-slk#readme"
+  "homepage": "https://github.com/lokeshrj/spc-slk#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
